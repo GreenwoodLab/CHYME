@@ -18,4 +18,4 @@ LMO.r:  R functions for LMO model.
 
 LMERO.r:  R functions for LMERO model.
 
-Email: lai.jiang@mail.mcgill.ca
+Email: lai.jiang@affiliate.mcgill.ca
